@@ -1,0 +1,29 @@
+﻿  Laboratory1.cpp
+F:\CApplication\Laboratory1\Laboratory1.cpp(76,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+F:\CApplication\Laboratory1\Laboratory1.cpp(86,11): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+F:\CApplication\Laboratory1\Laboratory1.cpp(86,11): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+F:\CApplication\Laboratory1\Laboratory1.cpp(86,11): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+F:\CApplication\Laboratory1\Laboratory1.cpp(86,11): message : этот аргумент используется в качестве размера буфера
+F:\CApplication\Laboratory1\Laboratory1.cpp(88,11): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+F:\CApplication\Laboratory1\Laboratory1.cpp(88,11): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+F:\CApplication\Laboratory1\Laboratory1.cpp(88,11): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+F:\CApplication\Laboratory1\Laboratory1.cpp(88,11): message : этот аргумент используется в качестве размера буфера
+F:\CApplication\Laboratory1\Laboratory1.cpp(99,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+F:\CApplication\Laboratory1\Laboratory1.cpp(120,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+F:\CApplication\Laboratory1\Laboratory1.cpp(126,12): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+F:\CApplication\Laboratory1\Laboratory1.cpp(126,12): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+F:\CApplication\Laboratory1\Laboratory1.cpp(126,12): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+F:\CApplication\Laboratory1\Laboratory1.cpp(126,12): message : этот аргумент используется в качестве размера буфера
+F:\CApplication\Laboratory1\Laboratory1.cpp(128,12): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+F:\CApplication\Laboratory1\Laboratory1.cpp(128,12): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+F:\CApplication\Laboratory1\Laboratory1.cpp(128,12): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+F:\CApplication\Laboratory1\Laboratory1.cpp(128,12): message : этот аргумент используется в качестве размера буфера
+F:\CApplication\Laboratory1\Laboratory1.cpp(111,6): warning C4101: a: неиспользованная локальная переменная
+F:\CApplication\Laboratory1\Laboratory1.cpp(113,7): warning C4101: kp: неиспользованная локальная переменная
+F:\CApplication\Laboratory1\Laboratory1.cpp(112,7): warning C4101: np: неиспользованная локальная переменная
+F:\CApplication\Laboratory1\Laboratory1.cpp(146,10): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+F:\CApplication\Laboratory1\Laboratory1.cpp(146,10): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+F:\CApplication\Laboratory1\Laboratory1.cpp(146,10): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+F:\CApplication\Laboratory1\Laboratory1.cpp(146,10): message : этот аргумент используется в качестве размера буфера
+F:\CApplication\Laboratory1\Laboratory1.cpp(151,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Laboratory1.vcxproj -> F:\CApplication\Laboratory1\x64\Debug\Laboratory1.exe
